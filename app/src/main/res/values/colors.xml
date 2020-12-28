@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //shown in the app bar
+    <color name="colorPrimary">#4A312A</color>
+    //shown in status bar
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    //background color of the app
+    <color name="tan_background">#FFF7DA</color>
+    //numbers category color
+    <color name="numbers_category">#FDBE09</color>
+    //family members category color
+    <color name="family_category">#379237</color>
+    //colors category color
+    <color name="colors_category">#BB00AB</color>
+    //Phrases category color
+    <color name="phrases_category">#16AFCA</color>
+</resources>

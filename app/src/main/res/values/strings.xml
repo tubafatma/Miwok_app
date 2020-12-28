@@ -1,0 +1,12 @@
+<resources>
+    //Title of the application
+    <string name="app_name">Miwok</string>
+    //Category name for phrases
+    <string name="category_phrases">Phrases</string>
+    //Category name for colors
+    <string name="category_colors">Colors</string>
+    //Category name for numbers
+    <string name="category_numbers">Numbers</string>
+    //Category name for family members
+    <string name="category_family">Family</string>
+</resources>
